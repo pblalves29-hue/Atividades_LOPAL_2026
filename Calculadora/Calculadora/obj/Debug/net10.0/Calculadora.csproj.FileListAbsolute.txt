@@ -1,0 +1,4 @@
+D:\Aprendendo com C#\Calculadora\Calculadora\obj\Debug\net10.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendendo com C#\Calculadora\Calculadora\obj\Debug\net10.0\Calculadora.AssemblyInfoInputs.cache
+D:\Aprendendo com C#\Calculadora\Calculadora\obj\Debug\net10.0\Calculadora.AssemblyInfo.cs
+D:\Aprendendo com C#\Calculadora\Calculadora\obj\Debug\net10.0\Calculadora.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\Aprendendo com C#\P.A\P.A\obj\Debug\net10.0\P.A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendendo com C#\P.A\P.A\obj\Debug\net10.0\P.A.AssemblyInfoInputs.cache
+D:\Aprendendo com C#\P.A\P.A\obj\Debug\net10.0\P.A.AssemblyInfo.cs
+D:\Aprendendo com C#\P.A\P.A\obj\Debug\net10.0\P.A.csproj.CoreCompileInputs.cache
+D:\Aprendendo com C#\P.A\P.A\bin\Debug\net10.0\P.A.exe
+D:\Aprendendo com C#\P.A\P.A\bin\Debug\net10.0\P.A.deps.json
+D:\Aprendendo com C#\P.A\P.A\bin\Debug\net10.0\P.A.runtimeconfig.json
+D:\Aprendendo com C#\P.A\P.A\bin\Debug\net10.0\P.A.dll
+D:\Aprendendo com C#\P.A\P.A\bin\Debug\net10.0\P.A.pdb
+D:\Aprendendo com C#\P.A\P.A\obj\Debug\net10.0\P.A.dll
+D:\Aprendendo com C#\P.A\P.A\obj\Debug\net10.0\refint\P.A.dll
+D:\Aprendendo com C#\P.A\P.A\obj\Debug\net10.0\P.A.pdb
+D:\Aprendendo com C#\P.A\P.A\obj\Debug\net10.0\P.A.genruntimeconfig.cache
+D:\Aprendendo com C#\P.A\P.A\obj\Debug\net10.0\ref\P.A.dll

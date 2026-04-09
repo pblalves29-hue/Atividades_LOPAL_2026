@@ -1,0 +1,14 @@
+D:\Aprendendo com C#\Números primos\bin\Debug\net10.0\Números primos.exe
+D:\Aprendendo com C#\Números primos\bin\Debug\net10.0\Números primos.deps.json
+D:\Aprendendo com C#\Números primos\bin\Debug\net10.0\Números primos.runtimeconfig.json
+D:\Aprendendo com C#\Números primos\bin\Debug\net10.0\Números primos.dll
+D:\Aprendendo com C#\Números primos\bin\Debug\net10.0\Números primos.pdb
+D:\Aprendendo com C#\Números primos\obj\Debug\net10.0\Números primos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendendo com C#\Números primos\obj\Debug\net10.0\Números primos.AssemblyInfoInputs.cache
+D:\Aprendendo com C#\Números primos\obj\Debug\net10.0\Números primos.AssemblyInfo.cs
+D:\Aprendendo com C#\Números primos\obj\Debug\net10.0\Números primos.csproj.CoreCompileInputs.cache
+D:\Aprendendo com C#\Números primos\obj\Debug\net10.0\Números primos.dll
+D:\Aprendendo com C#\Números primos\obj\Debug\net10.0\refint\Números primos.dll
+D:\Aprendendo com C#\Números primos\obj\Debug\net10.0\Números primos.pdb
+D:\Aprendendo com C#\Números primos\obj\Debug\net10.0\Números primos.genruntimeconfig.cache
+D:\Aprendendo com C#\Números primos\obj\Debug\net10.0\ref\Números primos.dll

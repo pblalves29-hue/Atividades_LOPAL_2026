@@ -1,0 +1,14 @@
+D:\Aprendendo com C#\Juros Simples\bin\Debug\net10.0\Juros Simples.exe
+D:\Aprendendo com C#\Juros Simples\bin\Debug\net10.0\Juros Simples.deps.json
+D:\Aprendendo com C#\Juros Simples\bin\Debug\net10.0\Juros Simples.runtimeconfig.json
+D:\Aprendendo com C#\Juros Simples\bin\Debug\net10.0\Juros Simples.dll
+D:\Aprendendo com C#\Juros Simples\bin\Debug\net10.0\Juros Simples.pdb
+D:\Aprendendo com C#\Juros Simples\obj\Debug\net10.0\Juros Simples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendendo com C#\Juros Simples\obj\Debug\net10.0\Juros Simples.AssemblyInfoInputs.cache
+D:\Aprendendo com C#\Juros Simples\obj\Debug\net10.0\Juros Simples.AssemblyInfo.cs
+D:\Aprendendo com C#\Juros Simples\obj\Debug\net10.0\Juros Simples.csproj.CoreCompileInputs.cache
+D:\Aprendendo com C#\Juros Simples\obj\Debug\net10.0\Juros Simples.dll
+D:\Aprendendo com C#\Juros Simples\obj\Debug\net10.0\refint\Juros Simples.dll
+D:\Aprendendo com C#\Juros Simples\obj\Debug\net10.0\Juros Simples.pdb
+D:\Aprendendo com C#\Juros Simples\obj\Debug\net10.0\Juros Simples.genruntimeconfig.cache
+D:\Aprendendo com C#\Juros Simples\obj\Debug\net10.0\ref\Juros Simples.dll

@@ -1,0 +1,14 @@
+D:\Aprendendo com C#\rpg\bin\Debug\net10.0\rpg.exe
+D:\Aprendendo com C#\rpg\bin\Debug\net10.0\rpg.deps.json
+D:\Aprendendo com C#\rpg\bin\Debug\net10.0\rpg.runtimeconfig.json
+D:\Aprendendo com C#\rpg\bin\Debug\net10.0\rpg.dll
+D:\Aprendendo com C#\rpg\bin\Debug\net10.0\rpg.pdb
+D:\Aprendendo com C#\rpg\obj\Debug\net10.0\rpg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendendo com C#\rpg\obj\Debug\net10.0\rpg.AssemblyInfoInputs.cache
+D:\Aprendendo com C#\rpg\obj\Debug\net10.0\rpg.AssemblyInfo.cs
+D:\Aprendendo com C#\rpg\obj\Debug\net10.0\rpg.csproj.CoreCompileInputs.cache
+D:\Aprendendo com C#\rpg\obj\Debug\net10.0\rpg.dll
+D:\Aprendendo com C#\rpg\obj\Debug\net10.0\refint\rpg.dll
+D:\Aprendendo com C#\rpg\obj\Debug\net10.0\rpg.pdb
+D:\Aprendendo com C#\rpg\obj\Debug\net10.0\rpg.genruntimeconfig.cache
+D:\Aprendendo com C#\rpg\obj\Debug\net10.0\ref\rpg.dll

@@ -1,0 +1,14 @@
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\bin\Debug\net10.0\Metodo fibonacci.exe
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\bin\Debug\net10.0\Metodo fibonacci.deps.json
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\bin\Debug\net10.0\Metodo fibonacci.runtimeconfig.json
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\bin\Debug\net10.0\Metodo fibonacci.dll
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\bin\Debug\net10.0\Metodo fibonacci.pdb
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\obj\Debug\net10.0\Metodo fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\obj\Debug\net10.0\Metodo fibonacci.AssemblyInfoInputs.cache
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\obj\Debug\net10.0\Metodo fibonacci.AssemblyInfo.cs
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\obj\Debug\net10.0\Metodo fibonacci.csproj.CoreCompileInputs.cache
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\obj\Debug\net10.0\Metodo fibonacci.dll
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\obj\Debug\net10.0\refint\Metodo fibonacci.dll
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\obj\Debug\net10.0\Metodo fibonacci.pdb
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\obj\Debug\net10.0\Metodo fibonacci.genruntimeconfig.cache
+D:\Aprendendo com C#\Metodo fibonacci\Metodo fibonacci\obj\Debug\net10.0\ref\Metodo fibonacci.dll
