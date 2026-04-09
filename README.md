@@ -1,7 +1,3 @@
 "# Atividades\_LOPAL\_2026"
-
-joao
-
-
-robson
+Pablo Vinícius Alves Pisolato
 
